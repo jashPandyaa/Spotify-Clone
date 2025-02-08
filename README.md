@@ -4,7 +4,7 @@ Created a Spotify-Clone home page using only Html and Css
 
 ## Technologies used are:
   -html
-  -Venila css
+  -css
   -css-flexbox
   
 ### Project overview:
