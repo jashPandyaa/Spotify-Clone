@@ -21,4 +21,4 @@ more onwords, I have given sticky-nav at top of the main-content just like in Sp
 further, i have tried giving footer just like it was in Application.
 playback bar , icons and music image-name is also given in footer section.
 
-
+## Project Link : https://spotify-clone-project1.netlify.app/
