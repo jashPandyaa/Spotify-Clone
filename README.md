@@ -1,4 +1,5 @@
 # Spotify-Clone
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Created a Spotify-Clone home page using only Html and Css
 
